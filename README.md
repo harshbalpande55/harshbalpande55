@@ -1,5 +1,6 @@
-### Hi there, I'm Harsh Balpande 🚀
-
+### Hi there, I'm Harsh Balpande 👋
+🌱 I’m currently learning Data Structures and Algorithms.
+💬 Ask me about Web Development.
 <!--
 **harshbalpande55/harshbalpande55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
