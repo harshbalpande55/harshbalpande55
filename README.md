@@ -1,7 +1,7 @@
 ### Hi there, I'm Harsh Balpande 👋
-🌱 I’m currently learning Data Structures and Algorithms.
+🌱 I’m currently learning Kubernetes.
 <br>
-💬 Ask me about Web Development.
+💬 Ask me about Back-End Development, AWS, AZURE, and Docker.
 <!--
 **harshbalpande55/harshbalpande55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
